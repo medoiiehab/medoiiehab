@@ -57,7 +57,6 @@ I am a **Full Stack Developer** and **Graphic Designer** focused on building acc
 ---
 
 ### 📊 GitHub Stats
-![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=medoiiehab&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medoiiehab&layout=compact&theme=transparent)
 
 ---
