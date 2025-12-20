@@ -72,4 +72,4 @@ I am a **Full Stack Developer** and **Graphic Designer** focused on building acc
 </p>
 
 ---
- *“I build accessible, pixel-perfect, and performant web experiences. I try to put performance and aesthetics on the same priority.” *
+ *“I build accessible, pixel-perfect, and performant web experiences. I try to put performance and aesthetics on the same priority.”*
