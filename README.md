@@ -56,11 +56,6 @@ I am a **Full Stack Developer** and **Graphic Designer** focused on building acc
 
 ---
 
-### 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medoiiehab)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 🤝 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammed-ehab-126a4b27a/" target="blank">
