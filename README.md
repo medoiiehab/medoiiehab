@@ -33,7 +33,7 @@ I am a **Full Stack Developer** and **Graphic Designer** focused on building acc
 *  **GDSC Instructor @ Google** (2022–2024): Taught C++ and Java OOP after graduating with Google's C++ certificate.
 *  **VP Social Media @ Egyptian Student Union** (2022–2025): Creating strategic marketing plans and coding scripts for HR departments.
 *  **Front-end Instructor @ Pioneers 180** (2024–2025): Leading lectures on React and Bootstrap as the section Vice Head.
-*  **Full-stack Developer @ PHD Research**: Developed a voting application using **Ethereum** and **Django**.
+*  **Full-stack Developer @ PHD Research**: Developed a voting application using **Solidity** and **NodeJs**.
 *  **Trainer @ Ministry of Youth**: Awarded for training youth in national programs and dakahlawi 100.
 *  **Full-stack Developer @ I-Inisilico**: Developed a web application for data analysis and visualization.
 *  **Full-stack Developer @ Khedemiti**: Developed a web application for Shopping and Services.
